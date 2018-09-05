@@ -17,10 +17,10 @@ public class StringFun {
 
 		/**
 		* toLowerCase changes the case of all characters to lowercase
-		* replace (s.replace(oldchar, newchar)) replaces a character (oldchar) with a new character (newchar)
+		* replace (s.replace(oldchar, newchar)) replaces all instances of a character (oldchar) with a new character (newchar) in a string
 		*
 		*/
-		
+
 
 	}
 }
