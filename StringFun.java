@@ -15,11 +15,16 @@ public class StringFun {
 		System.out.println(s.toLowerCase());
 		System.out.println(s.replace('i', 'x'));
 
-		/**
-		* toLowerCase changes the case of all characters to lowercase
-		* replace (s.replace(oldchar, newchar)) replaces all instances of a character (oldchar) with a new character (newchar) in a string
-		*
-		*/
+/**
+*
+* toLowerCase changes the case of all characters to lowercase
+* replace (s.replace(oldchar, newchar)) replaces all instances of a character (oldchar) with a new character (newchar) in a string
+*
+* @author Ramiro Rosario: github: rrosario1
+* 
+*
+*
+*/
 
 
 	}
